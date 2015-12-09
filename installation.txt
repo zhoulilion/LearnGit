@@ -1,1 +1,2 @@
 Guide of Installation.
+Step1: Open the tool.
