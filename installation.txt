@@ -1,5 +1,5 @@
 Guide of Fully Installation.
-Step1: Open the tool.
+Step1: Open the tool from here.
 
 Add a new line in laptop.
 
